@@ -1,7 +1,7 @@
 export default function Home() {
   return (
      <main className="bg-blue text-gold min-h-screen flex items-center justify-center">
-      <h1 className="text-4xl font-bold">Hello Mal!</h1>
+      <h1 className="text-4xl font-bold">Hello T!</h1>
       <section id="home"><h1>IDONTKNOW</h1></section>
       <section id="about"><h2>About Us</h2><p>Write about your brand here.</p></section>
       <section id="services"><h2>Services</h2><p>List what you offer.</p></section>
